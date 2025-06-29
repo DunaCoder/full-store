@@ -1,6 +1,6 @@
-# 🛍️ Mi Tienda Online Completa 🛍️
+# 🛍️ Tienda Online Completa 🛍️
 
-¡Bienvenido al repositorio central de mi solución de tienda online! Este proyecto integra una potente API de backend con una moderna interfaz de usuario de frontend para ofrecer una experiencia de compra completa.
+Este proyecto integra una potente API Realizada con FastApi y NextJS para el Front.
 
 ---
 
@@ -9,13 +9,14 @@
 | Componente | Descripción | Enlace al Repositorio |
 | :--------- | :---------- | :-------------------- |
 | **🌐 Frontend (Tienda Web)** | Interfaz de usuario interactiva y experiencia de compra para los clientes. | [Ir al Repositorio del Frontend](https://github.com/DunaCoder/Front-Next) |
-| **⚙️ Backend (API de la Tienda)** | Lógica de negocio, gestión de productos, usuarios y procesamiento de pedidos. | [Ir al Repositorio del Backend](https://github.com/Tu-Usuario/nombre-repositorio-backend) |
+| **⚙️ Backend (API de la Tienda)** | Lógica de negocio, gestión de productos, usuarios y procesamiento de pedidos. | [Ir al Repositorio del Backend](https://github.com/DunaCoder/FULL-STORE-API) |
 
 ---
 
 ## ✨ Visión General del Proyecto
 
-Esta es una solución de comercio electrónico de pila completa diseñada para gestionar productos, usuarios, carritos de compra y pedidos. Ha sido construida con un enfoque modular, separando la lógica del servidor de la presentación del lado del cliente para una mayor escalabilidad y mantenibilidad.
+Este proyecto es una pratica de un E-comerce Realizado con NextJS y Python con FastApi, el proyecto busca realiza operaciones get put update y delete, por parte del Front End
+esta realizado con NextJS, posee funciones basicas de un carrito de compras una interfaz que busca ser intuitiva y con el tiempo se agregaran mas funciones en el Front.
 
 ---
 
@@ -32,9 +33,8 @@ _Un GIF mostrando el flujo de usuario desde la navegación de productos hasta el
 
 Un resumen de las tecnologías usadas en toda la solución.
 
-* **Frontend:** React (o tu framework), TypeScript, Tailwind CSS
-* **Backend:** Node.js (Express), MongoDB, Mongoose
-* **Despliegue:** Netlify (para Frontend), Heroku/Vercel (para Backend)
+* **Frontend:** React (NextJS), TypeScript, Tailwind CSS
+* **Backend:** Python, FatApi
 * **Control de Versiones:** Git, GitHub
 
 ---
@@ -46,7 +46,7 @@ Para ejecutar y probar la tienda completa, necesitarás configurar ambos proyect
 1.  **Configurar y Lanzar el Backend:**
     * Clona el repositorio del Backend:
         ```bash
-        git clone [https://github.com/Tu-Usuario/nombre-repositorio-backend.git](https://github.com/Tu-Usuario/nombre-repositorio-backend.git)
+        git clone [https://github.com/DunaCoder/FULL-STORE-API](https://github.com/DunaCoder/FULL-STORE-API)
         cd nombre-repositorio-backend
         # Sigue las instrucciones de su README.md para instalar dependencias y arrancarlo
         ```
@@ -55,11 +55,10 @@ Para ejecutar y probar la tienda completa, necesitarás configurar ambos proyect
 2.  **Configurar y Lanzar el Frontend:**
     * Clona el repositorio del Frontend:
         ```bash
-        git clone [https://github.com/Tu-Usuario/nombre-repositorio-frontend.git](https://github.com/Tu-Usuario/nombre-repositorio-frontend.git)
+        git clone [https://github.com/DunaCoder/Front-Next](https://github.com/DunaCoder/Front-Next)
         cd nombre-repositorio-frontend
         # Sigue las instrucciones de su README.md para instalar dependencias y arrancarlo
         ```
-    * Asegúrate de que el frontend esté configurado para apuntar a la URL de tu backend (usualmente en un archivo `.env`).
 
 3.  ¡Abre tu navegador y navega a la URL del frontend (normalmente `http://localhost:3000`)!
 
@@ -80,8 +79,8 @@ Este proyecto está distribuido bajo la Licencia [MIT](https://opensource.org/li
 ## 📞 Contacto
 
 * **Tu Nombre:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/) | [Tu Perfil de GitHub](https://github.com/tu-usuario)
-* **Correo Electrónico:** tu.correo@example.com
+* **Correo Electrónico:** sipero2013@gmail.com
 
 ---
 
-¡Gracias por revisar este proyecto de tienda online! Esperamos que lo encuentres útil.
+¡Gracias por revisar este proyecto! Esperamos que sirva como base para otros proyectos.
