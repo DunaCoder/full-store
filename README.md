@@ -98,9 +98,9 @@ Este proyecto está distribuido bajo la Licencia [MIT](https://opensource.org/li
 
 ## 📞 Contacto
 
-* **Tu Nombre:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/) | [Tu Perfil de GitHub](https://github.com/tu-usuario)
+* **Simón Rondón:** [Simón Rondón Martínez](https://www.linkedin.com/in/sim%C3%B3n-rond%C3%B3n-mart%C3%ADnez-6b8a64233/) | [DunaCoder](https://github.com/DunaCoder)
 * **Correo Electrónico:** sipero2013@gmail.com
 
 ---
 
-¡Gracias por revisar este proyecto! Esperamos que sirva como base para otros proyectos.
+¡Gracias por revisar este proyecto! 
