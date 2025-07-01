@@ -22,13 +22,33 @@ esta realizado con NextJS, posee funciones basicas de un carrito de compras una 
 
 ## 📸 Demostración Visual de la Tienda
 
-Aquí puedes poner una captura de pantalla o un GIF animado de la **aplicación completa funcionando**, si tienes una URL de despliegue o quieres simular el flujo completo.
+### Página principal
 
-![Demostración de la Tienda Completa](assets/tienda-completa-demo.gif)
-_Un GIF mostrando el flujo de usuario desde la navegación de productos hasta el checkout._
+![Captura de la página principal de la tienda](assets/1.JPG)
+Aquí puedes ver la interfaz principal de nuestra tienda en línea, con los productos destacados y la barra de navegación.
 
 ---
 
+### Página de productos
+
+![Captura de la página de listado de productos](assets/2.JPG)
+Explora todos los productos disponibles en nuestra tienda. Utiliza los filtros para encontrar rápidamente lo que buscas.
+
+---
+
+### Página del carrito de compras
+
+![Captura de la página del carrito de compras](assets/3.JPG)
+Revisa los artículos que has añadido a tu carrito, ajusta las cantidades o procede al pago.
+
+---
+
+### Página de detalles del producto
+
+![Captura de la página de detalles de un producto específico](assets/4.JPG)
+Obtén una vista ampliada y detalles específicos de cada producto, incluyendo descripciones, precios y opciones de compra.
+
+---
 ## ⚙️ Tecnologías Clave
 
 Un resumen de las tecnologías usadas en toda la solución.
